@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Opans Kalender</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Hjem</item>
+        <item>Jobbkalender</item>
+        <item>Overtid</item>
+        <item>Oversikt</item>
+        <item>Pages</item>
+        <item>What\'s Hot</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_calendar</item>
+        <item>@drawable/ic_overtime</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="monday">MAN</string>
+    <string name="tuesday">TIR</string>
+    <string name="wednesday">ONS</string>
+    <string name="thursday">TOR</string>
+    <string name="friday">FRE</string>
+    <string name="saturday">LØR</string>
+    <string name="sunday">SØN</string>
+    <string name="days">Days</string>
+    <string name="home">Velkommen til OpAns Kalenderen \n\nHer kan du fylle inn overtid, avspasering og generelt ha en oversikt
+    over antall timer jobbet og turnusplanen.\nVelg datoen du starter turnusen fra innstillinger og turnusplanen
+    din vil bli automagisk fyllt ut\n</string>
+    <string name="empty_list_text">No records found</string>
+
+</resources>
